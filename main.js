@@ -46,6 +46,7 @@ var spring1 = function() {
  			
  			
  			alert("Terminanste el Spring1");
+ 			document.getElementById("S2").style.display = 'block'
  		}
  
 		
@@ -62,6 +63,7 @@ var spring2 = function() {
  		var quizz2	= function() {
  			document.getElementById("S2").style.display = 'none';
  			alert("Terminanste el Spring2");
+ 			
  		}
  
 		
