@@ -43,6 +43,8 @@ var spring1 = function() {
 
  		var quizz1	= function() {
  			document.getElementById("S1").style.display = 'none';
+ 			
+ 			
  			alert("Terminanste el Spring1");
  		}
  
